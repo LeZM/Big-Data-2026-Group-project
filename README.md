@@ -83,4 +83,22 @@ This project is part of the **Big Data Analytics course** where we act as busine
 | **Website Sessions** | 434,008 | 38,861 | 10 | Website visit sessions |
 | **Website Pageviews** | 1,052,523 | 103,278 | 4 | Individual page views |
 
-### **Key Relationships:**
+
+## 🔧 Project Setup
+
+### **Prerequisites:**
+```bash
+# Required Software
+- Python 3.9+
+- Apache Spark 3.5.0
+- Google Colab account
+- Git
+
+# Python Packages
+pyspark==3.5.0
+pandas==2.0.3
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+```
+
