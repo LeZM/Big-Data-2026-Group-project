@@ -1,0 +1,4 @@
+"# Set default behavior" 
+"* text=auto" 
+"*.ipynb binary" 
+"*.py text" 
